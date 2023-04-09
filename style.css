@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+    background-color: #1e1e2e;
+    color: #cdd6f4;
+}
+
+h1 {
+    text-align: center;
+}
+
+textarea {
+    background-color: #313244;
+    color: #cdd6f4;
+    border: 1px solid #45475a;
+}
+
+button {
+    background-color: #89b4fa;
+    color: #1e1e2e;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #74c7ec;
+}
+
+#result {
+    margin-top: 1rem;
+    font-weight: bold;
+}
+
